@@ -1,0 +1,28 @@
+name: 'Mentor Staffing '
+favicon: null
+layout_spectrum: 0.0008839794900268316
+typography_spectrum: 0.9956684520002455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8142603896558285
+  lightness: 0.15485849231481552
+  saturation: 0.7315041210968047
+  rhythmicContrast: 0.5798484140541404
+purpose: []
